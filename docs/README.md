@@ -1,4 +1,4 @@
-# The Intelligent CPU Scheduler Simulator (Enhanced Edition)
+# The Intelligent CPU Scheduler Simulator
 
 A highly polished, advanced CPU scheduling simulation tool built with Python, CustomTkinter, and Matplotlib. It features real-time dynamic visualization with a smart statistical heuristic for predicting optimal algorithms, and includes a large-sample testing module for stochastic performance evaluation.
 
